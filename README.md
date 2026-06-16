@@ -112,7 +112,7 @@ Want to move from prompt inspiration to real image generation fast? Use the GPT 
 - [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 - [Go to the GPT Image 2 to Seedance 2.0 workflow repository](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 
-### 1. Quick Install the Skill
+### 1. Install the Skill
 
 - [Go to gpt-image-2-gen-skill repository](https://github.com/EvoLinkAI/gpt-image-2-gen-skill)
 - One-line install:
@@ -121,7 +121,7 @@ Want to move from prompt inspiration to real image generation fast? Use the GPT 
 npx evolink-gpt-image -y
 ```
 
-### 2. Quick Connect to the API
+### 2. Connect to the API
 
 Set your key once, then copy any prompt from this repository into the request body:
 
